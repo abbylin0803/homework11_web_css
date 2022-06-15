@@ -1,0 +1,21 @@
+.box {
+  height: 400px;
+  padding: 20px;
+  color: #fff;
+  background: deepskyblue;
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
+
+.navbar-brand {
+background-color: lightcoral;
+padding:10px;
+}
+
+.thumbnailsm  {
+width: 150px;
+height: 150px;
+
+}
